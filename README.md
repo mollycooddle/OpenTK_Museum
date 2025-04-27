@@ -1,1 +1,4 @@
-# OpenTK_Museum
+  Музей на openTK
+  # Библиотеки:
+    OpenTK
+    StbImageSharp
